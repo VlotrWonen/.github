@@ -1,5 +1,5 @@
 # VlotrWonen 🏠
-This is the VlotrWonen Github organisatie.
+This is the VlotrWonen Github organization.
 
 #### [VlotrWonen-Frontend](https://github.com/VlotrWonen/VlotrWonen-Frontend)
 #### [VlotrWonen-Scraper](https://github.com/VlotrWonen/VlotrWonen-Scraper)
