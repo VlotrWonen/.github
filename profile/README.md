@@ -20,6 +20,7 @@ This is the VlotrWonen Github organization.
 
 ### Creating new Branches
 [type]/[name]
+
 Types:
 - feature
 - improvement
